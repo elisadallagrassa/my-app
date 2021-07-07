@@ -1,0 +1,127 @@
+body {
+  background: #f7f6e7;
+}
+
+.container {
+  margin: 100px 100px 0 100px;
+  text-align: center;
+  padding: 0 40px 40px 40px;
+  background: #e7e6e1;
+  border: 4px solid #606470;
+  border-radius: 10px;
+  font-family: "Ubuntu", sans-serif;
+}
+.heading {
+  text-align: center;
+  font-family: "Dancing Script", cursive;
+  font-size: 50px;
+  padding: 50px 0 0 0;
+}
+
+.command {
+  text-align: center;
+  font-size: 25px;
+  margin: 0;
+  padding: 20px 0;
+}
+
+.map-icon {
+  font-size: 25px;
+  transition: all 200ms ease-in-out;
+  background: #f7f6e7;
+  border: 10px solid #f7f6e7;
+  border-radius: 4px;
+}
+.map-icon:hover {
+  cursor: pointer;
+  background: #c1c0b9;
+  border: 10px solid #c1c0b9;
+}
+
+.left {
+  text-align: left;
+  margin: 0 0 50px 50px;
+  padding: 0;
+}
+
+h1 {
+  font-size: 80px;
+}
+
+h2 {
+  font-size: 80px;
+}
+
+h3 {
+  font-size: 40px;
+}
+
+ul {
+  font-size: 20px;
+  margin: 0 0 50px 0;
+  list-style-type: none;
+  padding: 0;
+}
+
+.center {
+  text-align: center;
+  font-size: 50px;
+}
+
+.center img {
+  width: 230px;
+  display: block;
+  margin: 0 auto;
+}
+.centerTemperature {
+  font-size: 50px;
+}
+
+.celsius {
+  font-size: 20px;
+}
+
+.fahrenheit {
+  font-size: 20px;
+}
+
+.slash {
+  font-size: 20px;
+}
+
+.right {
+  text-align: right;
+  font-size: 18px;
+  margin: 0 50 px 50 px 0;
+  padding: 20px;
+}
+.sun img {
+  width: 25px;
+  text-align: right;
+  margin: 0;
+}
+.row-2 {
+  text-align: center;
+  font-size: 18px;
+  padding: 0;
+  margin: 0;
+  border: 4px solid #606470;
+  border-radius: 10px;
+}
+img {
+  width: 100px;
+  display: block;
+  margin: 0 auto;
+}
+.col {
+  text-align: center;
+  margin: 10px;
+  padding: 10px;
+}
+footer {
+  text-align: center;
+  font-style: italic;
+  padding: 0 0 100px 0;
+  margin: 0 auto;
+  display: block;
+}
